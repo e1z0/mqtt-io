@@ -12,9 +12,9 @@ Exposes general purpose inputs and outputs (GPIO), hardware sensors and serial d
 
 Visit the [documentation](https://mqtt-io.app/) for more detailed information.
 
-## This fork include info about OrangePI Lite integration
+## This fork includes info about OrangePI Lite integration
 
-DHT22 sensor and gpio ports.
+[DHT22](/dht_opi.md) sensor and [gpio](/opi-gpio.md) ports.
 
 
 ## Supported Hardware
